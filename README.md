@@ -7,7 +7,7 @@ Exercício realizado e enviado utilizando Manjaro Linux, terminal e VSCode.
 ## Descrição do desafio:
 
 Instruções para entrega
-Desafio Classificador de nível de Herói
+Desafio Partidas Ranqueadas
 
 **O Que deve ser utilizado**
 
